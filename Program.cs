@@ -6,6 +6,7 @@ namespace VSCode_Created_sln
     {
         static void Main(string[] args)
         {
+            //some comment
             Console.WriteLine("Hello World!");
             Console.ReadLine();
         }
